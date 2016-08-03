@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "knex": "^0.7.3",
+    "knex": "0.11.0",
     "mysql": "^2.5.4",
     "optimist": "^0.6.1",
     "twitter": "^0.2.12"
